@@ -11,5 +11,6 @@ $cucumber BROWSER=ff
 or use a profile set up in the yaml file so
 
 $cucumber -p chrome
+
 $cucumber -p ff
 
