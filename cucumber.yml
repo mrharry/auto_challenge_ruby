@@ -1,0 +1,3 @@
+default: --format html --out=Report.html --format pretty
+chrome: --format html --out=Report.html --format pretty BROWSER=chrome
+ff: --format html --out=Report.html --format pretty BROWSER=ff
